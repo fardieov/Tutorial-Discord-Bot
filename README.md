@@ -7,7 +7,7 @@ To make it easier for you, I have broken everything down into stages.
 
 ## 1. Beginning 🫡
 ### Python installation
-1. Click [сюда](https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe) and you download python 3.12.4
+1. Click [here](https://www.python.org/ftp/python/3.12.4/python-3.12.4-amd64.exe) and you download python 3.12.4
 2. Be sure to check the box next to Add Python 3.12.4 in PATH and proceed with further installation
 
 Also: After installing **Python**, you can also install **Visual Studio Code** to edit bot files using this [link](https://code.visualstudio.com/Download)
