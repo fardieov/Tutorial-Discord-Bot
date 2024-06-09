@@ -90,3 +90,17 @@ To add several servers write like this
  test_guilds=[id, id]
  ```
 **Important** - If your server ID is not there, the slash command will appear/update only 10-15 minutes after it is added/changed
+
+### Terms
+Cog - bot module where commands are stored, you can create as many cogs as you like (Cleaning, Entertainment, etc.)
+
+Token - an encrypted Discord key with which the bot is authorized
+
+Import is a mandatory thing that adds a lot of useful things to the code, example below
+ ```py
+ import disnake
+ from disnake.ext import commands
+ ```
+Event - a trigger that is activated by some action, for example on_ready - the bot is turned on (ready)
+
+further look at the files, there I will post examples!
