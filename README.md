@@ -3,7 +3,7 @@ To make it easier for you, I have broken everything down into stages.
 
 <div align="center">
   <img src="https://media.giphy.com/media/oFo77ZD0hiusDNy55s/giphy.gif?cid=ecf05e47jzhx3ppnm3uly4jff254hq4nttqvz6hdtzqq59ms&ep=v1_gifs_search&rid=giphy.gif&ct=g"/>
-</div>
+    </div>
 
 ## 1. Beginning 🫡
 ### Python installation
