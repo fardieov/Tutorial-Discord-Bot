@@ -104,3 +104,5 @@ Import is a mandatory thing that adds a lot of useful things to the code, exampl
 Event - a trigger that is activated by some action, for example on_ready - the bot is turned on (ready)
 
 further look at the files, there I will post examples!
+
+upd 2024 29.06
