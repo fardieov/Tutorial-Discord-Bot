@@ -1,4 +1,4 @@
-# Tutorial to Create a Discord Bot Using the Disnake Library 💙
+# Tutorial to Create a Discord Bot Using the Disnake Library 💙 #1
 To make it easier for you, I have broken everything down into stages.
 
 <div align="center">
