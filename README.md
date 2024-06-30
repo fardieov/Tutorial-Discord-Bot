@@ -106,3 +106,4 @@ Event - a trigger that is activated by some action, for example on_ready - the b
 further look at the files, there I will post examples!
 
 upd 2024 29.06
+upd. 30.06!
